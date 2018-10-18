@@ -1,0 +1,14 @@
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\obj\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.csproj.CoreCompileInputs.cache
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\obj\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.AssemblyInfoInputs.cache
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\obj\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.AssemblyInfo.cs
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\bin\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.exe
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\bin\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.deps.json
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\bin\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.runtimeconfig.json
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\bin\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.runtimeconfig.dev.json
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\bin\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.dll
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\bin\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.pdb
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\obj\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.csprojAssemblyReference.cache
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\obj\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.dll
+C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PacktStatefullService\obj\Debug\netcoreapp2.0\win7-x64\PacktStatefullService.pdb
