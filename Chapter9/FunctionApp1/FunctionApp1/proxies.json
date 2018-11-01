@@ -1,0 +1,26 @@
+﻿{
+  "$schema": "http://json.schemastore.org/proxies",
+  "proxies": {
+    "MyFirstProxy": {
+      "matchCondition": {
+        "route": "myfirstproxy",
+        "methods": [
+          "GET"
+        ]
+      },
+      "backendUri": "https://microsoft.com"
+    },
+    "CreateCustomer": {
+      "matchCondition": {
+        "route": "customers/{id}",
+        "methods": [
+          "GET"
+        ]
+      },
+      "responseOverrides": {
+        "response.statusCode": "200",
+        "response.body": "{\r\n    \"id\": \"{id}\"\r\n}"
+      }
+    }
+  }
+}
