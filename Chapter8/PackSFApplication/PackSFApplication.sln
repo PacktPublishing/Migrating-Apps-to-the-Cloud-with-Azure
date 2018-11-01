@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "PackSFApplication", "PackSFApplication\PackSFApplication.sfproj", "{9994F6FF-D956-488D-A699-B9A1AA262992}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktStatefullService", "PacktStatefullService\PacktStatefullService.csproj", "{892D6EB9-0271-4D2D-AC09-2262D56C1B7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PacktStatefulService", "PacktStatefullService\PacktStatefulService.csproj", "{892D6EB9-0271-4D2D-AC09-2262D56C1B7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

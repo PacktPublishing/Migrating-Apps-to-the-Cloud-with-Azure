@@ -21,9 +21,9 @@ namespace PacktStatefullService
                 // an instance of the class is created in this host process.
 
                 ServiceRuntime.RegisterServiceAsync("PacktStatefullServiceType",
-                    context => new PacktStatefullService(context)).GetAwaiter().GetResult();
+                    context => new PacktStatefulService(context)).GetAwaiter().GetResult();
 
-                ServiceEventSource.Current.ServiceTypeRegistered(Process.GetCurrentProcess().Id, typeof(PacktStatefullService).Name);
+                ServiceEventSource.Current.ServiceTypeRegistered(Process.GetCurrentProcess().Id, typeof(PacktStatefulService).Name);
 
                 // Prevents this host process from terminating so services keep running.
                 Thread.Sleep(Timeout.Infinite);

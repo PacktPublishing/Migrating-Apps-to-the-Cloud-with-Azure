@@ -1972,11 +1972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SjoukjeZaal\\Documents\\Visual Studio 2017\\Projects\\PackSFApplication\\PacktStatefullService\\PacktStatefullService.csproj",
-      "projectName": "PacktStatefullService",
-      "projectPath": "C:\\Users\\SjoukjeZaal\\Documents\\Visual Studio 2017\\Projects\\PackSFApplication\\PacktStatefullService\\PacktStatefullService.csproj",
+      "projectUniqueName": "C:\\Users\\SjoukjeZaal\\Source\\Repos\\Migrating-Apps-to-the-Cloud-with-Azure\\Chapter8\\PackSFApplication\\PacktStatefullService\\PacktStatefulService.csproj",
+      "projectName": "PacktStatefulService",
+      "projectPath": "C:\\Users\\SjoukjeZaal\\Source\\Repos\\Migrating-Apps-to-the-Cloud-with-Azure\\Chapter8\\PackSFApplication\\PacktStatefullService\\PacktStatefulService.csproj",
       "packagesPath": "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SjoukjeZaal\\Documents\\Visual Studio 2017\\Projects\\PackSFApplication\\PacktStatefullService\\obj\\",
+      "outputPath": "C:\\Users\\SjoukjeZaal\\Source\\Repos\\Migrating-Apps-to-the-Cloud-with-Azure\\Chapter8\\PackSFApplication\\PacktStatefullService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
