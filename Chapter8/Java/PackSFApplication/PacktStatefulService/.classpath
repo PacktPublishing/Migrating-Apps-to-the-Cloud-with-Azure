@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="lib/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/asm-commons-5.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/asm-tree-5.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/asm-util-5.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.7.jar"/>
+	<classpathentry kind="lib" path="lib/sf-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/sf-actors-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/sf-services-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/sf-transport-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/sf-data-1.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

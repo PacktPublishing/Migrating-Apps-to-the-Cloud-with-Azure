@@ -1,0 +1,9 @@
+{
+ "ClusterConnectionParameters": 
+ {
+    "ConnectionIPOrURL": "[your hostname]",
+    "ConnectionPort": "19080",
+    "ClientKey": "[path to your PEM file]",
+    "ClientCert": "[path to your PEM file]"
+ }
+}

@@ -1,0 +1,11 @@
+apply plugin: 'java-library'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+	implementation 'org.mongodb:mongo-java-driver:3.9.0'
+	implementation 'org.mongodb:bson:3.0.0'
+}
+

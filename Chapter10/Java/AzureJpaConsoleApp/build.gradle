@@ -1,0 +1,11 @@
+apply plugin: 'java-library'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+	implementation 'org.hibernate:hibernate-entitymanager:5.3.7.Final'
+	runtime 'com.microsoft.sqlserver:mssql-jdbc:7.0.0.jre8'
+}
+

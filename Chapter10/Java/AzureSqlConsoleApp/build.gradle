@@ -1,0 +1,10 @@
+apply plugin: 'java-library'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+	runtime 'com.microsoft.sqlserver:mssql-jdbc:7.0.0.jre8'
+}
+
