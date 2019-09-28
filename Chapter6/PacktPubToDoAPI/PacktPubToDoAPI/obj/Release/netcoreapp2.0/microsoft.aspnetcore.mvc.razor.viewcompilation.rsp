@@ -1,5 +1,5 @@
-C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PacktPubToDoAPI\PacktPubToDoAPI
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter6\PacktPubToDoAPI\PacktPubToDoAPI
 --output-path=obj\Release\netcoreapp2.0\
 --application-name=PacktPubToDoAPI
---content-root=C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PacktPubToDoAPI\PacktPubToDoAPI
+--content-root=C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter6\PacktPubToDoAPI\PacktPubToDoAPI
 --file=

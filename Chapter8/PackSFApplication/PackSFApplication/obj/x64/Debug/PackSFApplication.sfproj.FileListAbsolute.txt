@@ -1,2 +1,3 @@
 C:\Users\SjoukjeZaal\Documents\Visual Studio 2017\Projects\PackSFApplication\PackSFApplication\obj\x64\Debug\PackSFApplication.sfproj.CoreCompileInputs.cache
 C:\Users\SjoukjeZaal\Source\Repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication\obj\x64\Debug\PackSFApplication.sfproj.CoreCompileInputs.cache
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication\obj\x64\Debug\PackSFApplication.sfproj.CoreCompileInputs.cache

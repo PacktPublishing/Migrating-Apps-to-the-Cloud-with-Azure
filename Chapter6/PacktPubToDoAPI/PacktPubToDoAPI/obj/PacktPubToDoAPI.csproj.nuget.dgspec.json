@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SjoukjeZaal\\repos\\Migrating-Apps-to-the-Cloud-with-Azure\\Chapter6\\PacktPubToDoAPI\\PacktPubToDoAPI\\PacktPubToDoAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SjoukjeZaal\\repos\\Migrating-Apps-to-the-Cloud-with-Azure\\Chapter6\\PacktPubToDoAPI\\PacktPubToDoAPI\\PacktPubToDoAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SjoukjeZaal\\repos\\Migrating-Apps-to-the-Cloud-with-Azure\\Chapter6\\PacktPubToDoAPI\\PacktPubToDoAPI\\PacktPubToDoAPI.csproj",
+        "projectName": "PacktPubToDoAPI",
+        "projectPath": "C:\\Users\\SjoukjeZaal\\repos\\Migrating-Apps-to-the-Cloud-with-Azure\\Chapter6\\PacktPubToDoAPI\\PacktPubToDoAPI\\PacktPubToDoAPI.csproj",
+        "packagesPath": "C:\\Users\\SjoukjeZaal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SjoukjeZaal\\repos\\Migrating-Apps-to-the-Cloud-with-Azure\\Chapter6\\PacktPubToDoAPI\\PacktPubToDoAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\SjoukjeZaal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

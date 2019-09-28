@@ -1,0 +1,11 @@
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\bin\Debug\netcoreapp2.2\win7-x64\hostpolicy.dll
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\bin\Debug\netcoreapp2.2\win7-x64\hostfxr.dll
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\bin\Debug\netcoreapp2.2\win7-x64\PacktStatefulService.exe
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\bin\Debug\netcoreapp2.2\win7-x64\PacktStatefulService.deps.json
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\bin\Debug\netcoreapp2.2\win7-x64\PacktStatefulService.runtimeconfig.json
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\bin\Debug\netcoreapp2.2\win7-x64\PacktStatefulService.runtimeconfig.dev.json
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\bin\Debug\netcoreapp2.2\win7-x64\PacktStatefulService.dll
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\obj\Debug\netcoreapp2.2\win7-x64\PacktStatefulService.csprojAssemblyReference.cache
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\obj\Debug\netcoreapp2.2\win7-x64\PacktStatefulService.csproj.CoreCompileInputs.cache
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\obj\Debug\netcoreapp2.2\win7-x64\PacktStatefulService.AssemblyInfoInputs.cache
+C:\Users\SjoukjeZaal\repos\Migrating-Apps-to-the-Cloud-with-Azure\Chapter8\PackSFApplication\PackSFApplication1\PacktStatefulService\obj\Debug\netcoreapp2.2\win7-x64\PacktStatefulService.AssemblyInfo.cs

@@ -3,5 +3,6 @@
   <PropertyGroup>
     <ApplicationUrl />
     <LastServiceLocation />
+    <LaunchTarget>[UseApplicationUrl]</LaunchTarget>
   </PropertyGroup>
 </Project>
